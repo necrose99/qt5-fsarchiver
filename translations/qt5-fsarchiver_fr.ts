@@ -115,7 +115,7 @@
         <source>You must select a partition.</source>
         <comment>Sie müssen eine Partition auswählen.
 </comment>
-        <translation type="unfinished"></translation>
+        <translation>Vous devez sélectionner une partition.</translation>
     </message>
     <message>
         <location filename="../src/clone.cpp" line="203"/>
@@ -128,21 +128,21 @@
         <source>You must select a partition.</source>
         <comment>Sie müssen eine Partitiom auswählen.
 </comment>
-        <translation type="unfinished"></translation>
+        <translation>Vous devez sélectionner une partition.</translation>
     </message>
     <message>
         <location filename="../src/clone.cpp" line="239"/>
         <source>You must select a part.fsa file or an part.fsa.gz file.</source>
         <comment>Sie müssen eine part.fsa- oder eine part.fsa.gz-Datei auswählen.
 </comment>
-        <translation type="unfinished"></translation>
+        <translation>Vous devez sélectionner un fichier part.fsa ou part.fsa.gz.</translation>
     </message>
     <message>
         <location filename="../src/clone.cpp" line="257"/>
         <location filename="../src/clone.cpp" line="464"/>
         <source>Partition to restore </source>
         <comment>Die wiederherzustellende Partition </comment>
-        <translation type="unfinished"></translation>
+        <translation>Partition à restaurer </translation>
     </message>
     <message>
         <location filename="../src/clone.cpp" line="258"/>
@@ -156,13 +156,13 @@
         <location filename="../src/clone.cpp" line="465"/>
         <source> Do you want to continue restore?</source>
         <comment> überein. Wollen Sie trotzdem die Wiederherstellung durchführen?</comment>
-        <translation type="unfinished"></translation>
+        <translation>Voulez-vous continuer à restaurer ?</translation>
     </message>
     <message>
         <location filename="../src/clone.cpp" line="273"/>
         <source> Do you want really restore an image of a partition? </source>
         <comment> Wollen Sie wirklich ein Abbild einer Partition zurückschreiben? </comment>
-        <translation type="unfinished"></translation>
+        <translation>Voulez-vous vraiment restaurer l&apos;image d&apos;une partition ? </translation>
     </message>
     <message>
         <location filename="../src/clone.cpp" line="448"/>
@@ -187,7 +187,7 @@
         <location filename="../src/clone.cpp" line="506"/>
         <source>No</source>
         <comment>Nein</comment>
-        <translation>No</translation>
+        <translation>Non</translation>
     </message>
     <message>
         <location filename="../src/clone.cpp" line="534"/>
@@ -201,7 +201,7 @@
         <location filename="../src/clone.cpp" line="558"/>
         <source>Exist harddrive</source>
         <comment>Existierende Festplatte</comment>
-        <translation type="unfinished"></translation>
+        <translation>Il existe un disque dur</translation>
     </message>
     <message>
         <location filename="../src/clone.cpp" line="552"/>
@@ -213,25 +213,25 @@
         <location filename="../src/clone.cpp" line="574"/>
         <source>Save Partition Image</source>
         <comment>Image einer Partition erstellen</comment>
-        <translation type="unfinished"></translation>
+        <translation>Il existe un disque dur</translation>
     </message>
     <message>
         <location filename="../src/clone.cpp" line="576"/>
         <source>Save Partition Image</source>
         <comment>Partition Abbild erstellen</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sauvegarder l&apos;image de la partition</translation>
     </message>
     <message>
         <location filename="../src/clone.cpp" line="587"/>
         <source>Restore Partition Image</source>
         <comment>Image einer Partition zurückschreiben</comment>
-        <translation type="unfinished"></translation>
+        <translation>Restaurer l&apos;image de la partition</translation>
     </message>
     <message>
         <location filename="../src/clone.cpp" line="589"/>
         <source>Restore Partition Image</source>
         <comment>Partition Abbild zurückschreiben</comment>
-        <translation type="unfinished"></translation>
+        <translation>Restaurer l&apos;image de la partition</translation>
     </message>
     <message>
         <location filename="../src/clone.cpp" line="670"/>
@@ -254,56 +254,56 @@
         <source>Backing up the image of the hard disk was successful.</source>
         <comment>Das Sichern des Abbildes der Festplatte war erfolgreich.
 </comment>
-        <translation type="unfinished"></translation>
+        <translation>La sauvegarde de l&apos;image du disque dur a été effectuée avec succès.</translation>
     </message>
     <message>
         <location filename="../src/clone.cpp" line="826"/>
         <source>Backing up the image of a partition was successful.</source>
         <comment>Die Sichern des Abbildes der Partition war erfolgreich.
 </comment>
-        <translation type="unfinished"></translation>
+        <translation>La sauvegarde de l&apos;image de la partition dur a été effectuée avec succès.</translation>
     </message>
     <message>
         <location filename="../src/clone.cpp" line="838"/>
         <source>Backing up the image of the hard disk was not successful.</source>
         <comment>Die Sichern des Abbildes der Festplatte war nicht erfolgreich.
 </comment>
-        <translation type="unfinished"></translation>
+        <translation>La sauvegarde de l&apos;image du disque dur a échoué.</translation>
     </message>
     <message>
         <location filename="../src/clone.cpp" line="845"/>
         <source>Backing up the image of a partition was not successful.</source>
         <comment>Die Sichern des Abbildes der Partition war nicht erfolgreich.
 </comment>
-        <translation type="unfinished"></translation>
+        <translation>La sauvegarde de l&apos;image de la partition a échoué.</translation>
     </message>
     <message>
         <location filename="../src/clone.cpp" line="872"/>
         <source>The restore of the image of the hard disk was successful.</source>
         <comment>Die Wiederherstellung des Abbildes der Festplatte war erfolgreich.
 </comment>
-        <translation type="unfinished"></translation>
+        <translation>La restauration de l&apos;image du disque dur a réussi.</translation>
     </message>
     <message>
         <location filename="../src/clone.cpp" line="874"/>
         <source>The restore of the image of the partition was successful.</source>
         <comment>Die Wiederherstellung des Abbildes der Partition war erfolgreich.
 </comment>
-        <translation type="unfinished"></translation>
+        <translation>La restauration de l&apos;image de la partition a réussi.</translation>
     </message>
     <message>
         <location filename="../src/clone.cpp" line="879"/>
         <source>The restore of the image of the hard disk was not successful.</source>
         <comment>Die Wiederherstellung des Abbildes der Festplatte war nicht erfolgreich.
 </comment>
-        <translation type="unfinished"></translation>
+        <translation>La restauration de l&apos;image du disque dur a échoué.</translation>
     </message>
     <message>
         <location filename="../src/clone.cpp" line="885"/>
         <source>The restore of the image of the partition was not successful.</source>
         <comment>Die Wiederherstellung des Abbildes der Partition war nicht erfolgreich.
 </comment>
-        <translation type="unfinished"></translation>
+        <translation>La restauration de l&apos;image de la partition a échoué.</translation>
     </message>
     <message>
         <source>The backup of the image was successfully.</source>
@@ -3758,14 +3758,14 @@ avec fsarchiver</translation>
 </source>
         <comment>Sie müssen den Benutzernamen eingeben. Sonst kann nicht auf Netzrechner zugegriffen werden
 </comment>
-        <translation>You must enter the user name. Can not otherwise be accessible to network computers
+        <translation>Vous devez saisir le nom de l&apos;utilisateur. Impossible autrement d&apos;accéder aux ordinateurs du réseau
 </translation>
     </message>
     <message>
         <location filename="../src/net_ein.cpp" line="476"/>
         <source>Is it true that you have entered a key? (NFS dont need a key)</source>
         <comment>Ist das richtig, dass Sie keinen Schlüssel eingegeben haben? (NFS benötigt keinen Schlüssel)</comment>
-        <translation>Is it true that you have entered a key? (NFS dont need a key)</translation>
+        <translation>Avez-vous vraiment renseigné une clé ? (NFS ne nécessite pas de clé)</translation>
     </message>
     <message>
         <location filename="../src/net_ein.cpp" line="671"/>
@@ -3777,7 +3777,7 @@ avec fsarchiver</translation>
         <location filename="../src/net_ein.cpp" line="672"/>
         <source>No</source>
         <comment>Nein</comment>
-        <translation>No</translation>
+        <translation>Non</translation>
     </message>
 </context>
 <context>
@@ -3918,27 +3918,27 @@ avec fsarchiver</translation>
         <location filename="../build/ui_clone_dialog.h" line="322"/>
         <source>&amp;Image of a hard disk write back</source>
         <extracomment>sdc</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Réécrire &amp;Image d&apos;un disque dur</translation>
     </message>
     <message>
         <location filename="../src/ui/clone_dialog.ui" line="539"/>
         <location filename="../build/ui_clone_dialog.h" line="323"/>
         <source>&amp;Clone hard disk</source>
         <extracomment>sda</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Cloner le disque dur</translation>
     </message>
     <message>
         <location filename="../src/ui/clone_dialog.ui" line="577"/>
         <location filename="../build/ui_clone_dialog.h" line="325"/>
         <source>Image &amp;of a hard disk to create</source>
         <extracomment>sdb</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Image d&apos;un &amp;disque dur à créer</translation>
     </message>
     <message>
         <location filename="../src/ui/clone_dialog.ui" line="590"/>
         <location filename="../build/ui_clone_dialog.h" line="326"/>
         <source>Image of &amp;a partition to create</source>
-        <translation type="unfinished"></translation>
+        <translation>Image d&apos;une partition &amp;a créer</translation>
     </message>
     <message>
         <location filename="../src/ui/clone_dialog.ui" line="603"/>
@@ -3978,7 +3978,7 @@ avec fsarchiver</translation>
         <location filename="../src/ui/clone_dialog.ui" line="643"/>
         <location filename="../build/ui_clone_dialog.h" line="330"/>
         <source>Save/Restore</source>
-        <translation type="unfinished"></translation>
+        <translation>Sauvegarder/Restaurer</translation>
     </message>
 </context>
 <context>
@@ -4073,7 +4073,7 @@ avec fsarchiver</translation>
         <location filename="../build/ui_dir_dialog.h" line="211"/>
         <source>Save/restore directory</source>
         <extracomment>Verzeichnis sichern/zurückschreiben</extracomment>
-        <translation>Save/restore directory</translation>
+        <translation>Sauvegarder/restaurer le répertoire</translation>
     </message>
     <message>
         <location filename="../src/ui/dir_dialog.ui" line="26"/>
@@ -4086,33 +4086,33 @@ avec fsarchiver</translation>
         <location filename="../src/ui/dir_dialog.ui" line="39"/>
         <location filename="../build/ui_dir_dialog.h" line="209"/>
         <source>Start the backup or the restore of a folder.</source>
-        <translation>Start the backup or the restore of a folder.</translation>
+        <translation>Lancer la sauvegarde ou la restauration d&apos;un dossier.</translation>
     </message>
     <message>
         <location filename="../src/ui/dir_dialog.ui" line="68"/>
         <location filename="../build/ui_dir_dialog.h" line="213"/>
         <source>Select the folder to be backed up or restored.</source>
-        <translation>Select the folder to be backed up or restored.</translation>
+        <translation>Sélectionner le dossier à sauvegarder ou à restaurer.</translation>
     </message>
     <message>
         <location filename="../src/ui/dir_dialog.ui" line="71"/>
         <location filename="../build/ui_dir_dialog.h" line="215"/>
         <source>Saved directory</source>
         <extracomment>zu sicherndes Verzeichnis:</extracomment>
-        <translation>Saved directory</translation>
+        <translation>Répertoire sauvegardé</translation>
     </message>
     <message>
         <location filename="../src/ui/dir_dialog.ui" line="97"/>
         <location filename="../build/ui_dir_dialog.h" line="217"/>
         <source>Directory in which the folder is backed up or from the recovery file is removed.</source>
-        <translation>Directory in which the folder is backed up or from the recovery file is removed.</translation>
+        <translation>Répertoire dans lequel le dossier est sauvegardé ou à partir duquel le fichier de récupération est supprimé.</translation>
     </message>
     <message>
         <location filename="../src/ui/dir_dialog.ui" line="100"/>
         <location filename="../build/ui_dir_dialog.h" line="219"/>
         <source>Location (path) of backup:</source>
         <extracomment>Ort (Pfad) der Sicherung:</extracomment>
-        <translation>Location (path) of backup:</translation>
+        <translation>Emplacement de la sauvegarde :</translation>
     </message>
     <message>
         <location filename="../src/ui/dir_dialog.ui" line="128"/>
@@ -4129,15 +4129,15 @@ captive Files/directories:</translation>
         <source>Already backed
 Files/directories:</source>
         <extracomment>bereits gesicherte Datein/Verzeichnisse:</extracomment>
-        <translation>Already backed
-Files/directories:</translation>
+        <translation>Fichiers/Répertoires
+déjà sauvegardés :</translation>
     </message>
     <message>
         <location filename="../src/ui/dir_dialog.ui" line="198"/>
         <location filename="../build/ui_dir_dialog.h" line="224"/>
         <source>elapsed time:</source>
         <extracomment>vergangene Zeit:</extracomment>
-        <translation>temps écoulé:</translation>
+        <translation>temps écoulé :</translation>
     </message>
     <message>
         <location filename="../src/ui/dir_dialog.ui" line="224"/>
@@ -4162,7 +4162,7 @@ Files/directories:</translation>
         <location filename="../build/ui_dir_dialog.h" line="227"/>
         <source>remaining  time:</source>
         <extracomment>noch zu erwartende Zeit:</extracomment>
-        <translation>remaining  time:</translation>
+        <translation>temps restant :</translation>
     </message>
     <message>
         <location filename="../src/ui/dir_dialog.ui" line="395"/>
@@ -4170,23 +4170,23 @@ Files/directories:</translation>
         <source>Number of processor cores
 for to be used fsarchiver:</source>
         <extracomment>Anzahl der Prozessorkerne, die für fsarchiver verwendet werden sollen:</extracomment>
-        <translation>Number of processor cores
-for to be used fsarchiver:</translation>
+        <translation>Nombre de coeurs de processeurs
+à utiliser pour fsarchiver:</translation>
     </message>
     <message>
         <location filename="../src/ui/dir_dialog.ui" line="424"/>
         <location filename="../build/ui_dir_dialog.h" line="234"/>
         <source>Compression setting:</source>
         <extracomment>Kompressioneinstellung:</extracomment>
-        <translation>Compression setting:</translation>
+        <translation>Réglage de la compression :</translation>
     </message>
     <message>
         <location filename="../src/ui/dir_dialog.ui" line="447"/>
         <location filename="../build/ui_dir_dialog.h" line="235"/>
         <source>Encrypt
 backup key</source>
-        <translation>Encrypt
-backup key</translation>
+        <translation>Crypter
+la clé de sauvegarde</translation>
     </message>
     <message>
         <location filename="../src/ui/dir_dialog.ui" line="471"/>
@@ -4199,13 +4199,13 @@ backup key</translation>
         <location filename="../build/ui_dir_dialog.h" line="240"/>
         <source>Overwrite existing backup</source>
         <extracomment>vorhandene Sicherung überschreiben</extracomment>
-        <translation>Overwrite existing backup</translation>
+        <translation>Ecraser la sauvegarde existante</translation>
     </message>
     <message>
         <location filename="../src/ui/dir_dialog.ui" line="487"/>
         <location filename="../build/ui_dir_dialog.h" line="242"/>
         <source>The directory will be written back to the original path</source>
-        <translation>The directory will be written back to the original path</translation>
+        <translation>Le répertoire sera écrit à l&apos;emplacement originel</translation>
     </message>
     <message>
         <location filename="../src/ui/dir_dialog.ui" line="490"/>
@@ -4218,7 +4218,7 @@ backup key</translation>
         <location filename="../src/ui/dir_dialog.ui" line="504"/>
         <location filename="../build/ui_dir_dialog.h" line="245"/>
         <source>show hidden directories/files</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher les répertoires/fichiers cachés</translation>
     </message>
 </context>
 <context>
@@ -4228,35 +4228,35 @@ backup key</translation>
         <location filename="../build/ui_mbr_dialog.h" line="92"/>
         <source>Save / Restore MBR/GPT</source>
         <extracomment>MBR sichern/zurückschreiben</extracomment>
-        <translation>Save / Restore MBR/GPT</translation>
+        <translation>Sauvegarder / Restaurer le MBR/GPT</translation>
     </message>
     <message>
         <location filename="../src/ui/mbr_dialog.ui" line="27"/>
         <location filename="../build/ui_mbr_dialog.h" line="95"/>
         <source>Only the boot loader area to restore</source>
         <extracomment>nur den Bootloaderbereich wieder herstellen</extracomment>
-        <translation>Only the boot loader area to restore</translation>
+        <translation>Restaurer uniquement le chargeur d&apos;amorcage</translation>
     </message>
     <message>
         <location filename="../src/ui/mbr_dialog.ui" line="32"/>
         <location filename="../build/ui_mbr_dialog.h" line="96"/>
         <source>Bootloader area and restore the partition table</source>
         <extracomment>Bootloaderbereich und die Partitionstabelle wieder herstellen</extracomment>
-        <translation>Bootloader area and restore the partition table</translation>
+        <translation>Zone du chargeur d&apos;amorcage et restauration de la table des partitions</translation>
     </message>
     <message>
         <location filename="../src/ui/mbr_dialog.ui" line="37"/>
         <location filename="../build/ui_mbr_dialog.h" line="97"/>
         <source>Restore partition table</source>
         <extracomment>Partitionstabelle wiederherstellen</extracomment>
-        <translation>Restore partition table</translation>
+        <translation>Restaurer la table des partitions</translation>
     </message>
     <message>
         <location filename="../src/ui/mbr_dialog.ui" line="42"/>
         <location filename="../build/ui_mbr_dialog.h" line="98"/>
         <source>Secretly area to restore. (Without Boot Loader and without partition table).</source>
         <extracomment>Verborgenen Bereich  wieder herstellen. (Ohne  Bootloader und ohne Partitionstabelle).</extracomment>
-        <translation>Secretly area to restore. (Without Boot Loader and without partition table).</translation>
+        <translation>Zone secrète à restaurer (sans chargeur d&apos;amorcage ni table des partitions).</translation>
     </message>
     <message>
         <location filename="../src/ui/mbr_dialog.ui" line="61"/>
@@ -4276,14 +4276,14 @@ backup key</translation>
         <location filename="../src/ui/mbr_dialog.ui" line="100"/>
         <location filename="../build/ui_mbr_dialog.h" line="104"/>
         <source>Directory in which the MBR/GPT is written.</source>
-        <translation>Directory in which the MBR/GPT is written.</translation>
+        <translation>Répertoire dans lequel la MBR/GPT doit être écrit.</translation>
     </message>
     <message>
         <location filename="../src/ui/mbr_dialog.ui" line="103"/>
         <location filename="../build/ui_mbr_dialog.h" line="106"/>
         <source>MBR/GPT backup directory:</source>
         <extracomment>MBR Sicherungsverzeichnis:</extracomment>
-        <translation>MBR/GPT backup directory:</translation>
+        <translation>Répertoire de sauvegarde de la MBR/GPT :</translation>
     </message>
     <message>
         <location filename="../src/ui/mbr_dialog.ui" line="116"/>
@@ -4299,7 +4299,7 @@ Backup / restore:</translation>
         <location filename="../build/ui_mbr_dialog.h" line="109"/>
         <source>&amp;Existing
 harddrive:</source>
-        <translation type="unfinished"></translation>
+        <translation>Disque dur &amp;Existant</translation>
     </message>
 </context>
 <context>
@@ -4308,7 +4308,7 @@ harddrive:</source>
         <location filename="../src/ui/setting.ui" line="14"/>
         <location filename="../build/ui_setting.h" line="148"/>
         <source>Basic settings</source>
-        <translation>Basic settings</translation>
+        <translation>Réglages de base</translation>
     </message>
     <message>
         <location filename="../src/ui/setting.ui" line="41"/>
@@ -4317,9 +4317,9 @@ harddrive:</source>
 cores, for fsarchiver
 should be used:</source>
         <extracomment>Anzahl Prozessorenkerne, * die für fsarchiver * verwendet werden sollen:</extracomment>
-        <translation>Number of processors
-cores, for fsarchiver
-should be used:</translation>
+        <translation>Nombre de coeurs de
+processeurs, à utiliser pour
+fsarchiver :</translation>
     </message>
     <message>
         <location filename="../src/ui/setting.ui" line="66"/>
@@ -4327,28 +4327,28 @@ should be used:</translation>
         <source>Standard
 compression:</source>
         <extracomment>Standard*kompression:</extracomment>
-        <translation>Standard
-compression:</translation>
+        <translation>Compression
+standard :</translation>
     </message>
     <message>
         <location filename="../src/ui/setting.ui" line="90"/>
         <location filename="../build/ui_setting.h" line="154"/>
         <source>Language:</source>
-        <translation>Language:</translation>
+        <translation>Langue :</translation>
     </message>
     <message>
         <location filename="../src/ui/setting.ui" line="113"/>
         <location filename="../build/ui_setting.h" line="155"/>
         <source>Existing files by default override</source>
         <extracomment>vorhandene Dateien * standardmäßig überschreiben</extracomment>
-        <translation>Existing files by default override</translation>
+        <translation>Fichiers existants écrasés par défaut</translation>
     </message>
     <message>
         <location filename="../src/ui/setting.ui" line="126"/>
         <location filename="../build/ui_setting.h" line="156"/>
         <source>Backup note enable by default</source>
         <extracomment>Hinweise zur Sicherung * standardmäßig aktivieren</extracomment>
-        <translation>Backup note enable by default</translation>
+        <translation>Note de sauvegarde activée par défaut</translation>
     </message>
     <message>
         <location filename="../src/ui/setting.ui" line="139"/>
@@ -4356,15 +4356,15 @@ compression:</translation>
         <source>Directories by default write 
 back to the original location</source>
         <extracomment>Verzeichnisse * standardmäßig an * den ursprünglichen * Ort zurückschreiben</extracomment>
-        <translation>Directories by default write 
-back to the original location</translation>
+        <translation>Répertoires enregistrés par défaut 
+dans l&apos;emplacement d&apos;origine</translation>
     </message>
     <message>
         <location filename="../src/ui/setting.ui" line="153"/>
         <location filename="../build/ui_setting.h" line="159"/>
         <source>Enable encryption by default</source>
         <extracomment>Verschlüsselung * standardmäßig aktivieren</extracomment>
-        <translation>Enable encryption by default</translation>
+        <translation>Activer le cryptage par défaut</translation>
     </message>
     <message>
         <location filename="../src/ui/setting.ui" line="166"/>
@@ -4377,7 +4377,7 @@ back to the original location</translation>
         <location filename="../src/ui/setting.ui" line="179"/>
         <location filename="../build/ui_setting.h" line="161"/>
         <source>Show passwords</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher les mots de passe</translation>
     </message>
     <message>
         <location filename="../src/ui/setting.ui" line="192"/>
@@ -4391,7 +4391,7 @@ back to the original location</translation>
         <location filename="../build/ui_setting.h" line="163"/>
         <source>Save Settings</source>
         <extracomment>Einstellungen speichern</extracomment>
-        <translation>Save Settings</translation>
+        <translation>Enregistrer les réglages</translation>
     </message>
     <message>
         <location filename="../src/ui/setting.ui" line="218"/>
@@ -4405,40 +4405,40 @@ back to the original location</translation>
         <location filename="../build/ui_setting.h" line="165"/>
         <source>Safe PBR by default</source>
         <extracomment>PBR standradmäßig sichern</extracomment>
-        <translation>Safe PBR by default</translation>
+        <translation>Enregistrer PBR par défaut</translation>
     </message>
     <message>
         <location filename="../src/ui/setting.ui" line="254"/>
         <location filename="../build/ui_setting.h" line="166"/>
         <source>Network protocol:</source>
-        <translation>Network protocol:</translation>
+        <translation>Protocole Réseau :</translation>
     </message>
     <message>
         <location filename="../src/ui/setting.ui" line="267"/>
         <location filename="../build/ui_setting.h" line="167"/>
         <source>Show Note for accessing network computer</source>
         <extracomment>Hinweis  für den Zugriff auf Netzwerkrechner anzeigen</extracomment>
-        <translation>Show Note for accessing network computer</translation>
+        <translation>Afficher la note pour accéder à l&apos;ordinateur du réseau</translation>
     </message>
     <message>
         <location filename="../src/ui/setting.ui" line="280"/>
         <location filename="../build/ui_setting.h" line="168"/>
         <source>Show  Note to mount the network computer</source>
         <extracomment>Hinweis über das Mounten des Netzwerkrechners anzeigen</extracomment>
-        <translation>Show  Note to mount the network computer</translation>
+        <translation>Afficher la note pour monter l&apos;ordinateur du réseau</translation>
     </message>
     <message>
         <location filename="../src/ui/setting.ui" line="293"/>
         <location filename="../build/ui_setting.h" line="169"/>
         <source>Show  Note about the programm qt5-fsarchiver</source>
         <extracomment>Hinweise zum Gebrauch des Programms anzeigen</extracomment>
-        <translation>Show  Note about the programm qt5-fsarchiver</translation>
+        <translation>Afficher la note à propos du programme qt5-fsarchiver</translation>
     </message>
     <message>
         <location filename="../src/ui/setting.ui" line="306"/>
         <location filename="../build/ui_setting.h" line="170"/>
         <source>Show hidden directories and files</source>
-        <translation type="unfinished">Restore partition</translation>
+        <translation>Afficher les répertoires et fichiers cachés</translation>
     </message>
 </context>
 <context>
@@ -4448,7 +4448,7 @@ back to the original location</translation>
         <location filename="../build/ui_treeview.h" line="82"/>
         <source>Select restore file</source>
         <extracomment>Wiederherstellungsdatei auswählen</extracomment>
-        <translation>Select restore file</translation>
+        <translation>Sélectionnez le fichier restauré</translation>
     </message>
     <message>
         <location filename="../src/ui/treeview.ui" line="41"/>
@@ -4462,14 +4462,14 @@ back to the original location</translation>
         <location filename="../build/ui_treeview.h" line="84"/>
         <source>Next</source>
         <extracomment>Mit der Wiederherstellung fortfahren</extracomment>
-        <translation>Next</translation>
+        <translation>Suivant</translation>
     </message>
     <message>
         <location filename="../src/ui/treeview.ui" line="92"/>
         <location filename="../build/ui_treeview.h" line="85"/>
         <source>Existing restore files:</source>
         <extracomment>Vorhandene Wiederherstellungsdateien:</extracomment>
-        <translation>Existing restore files:</translation>
+        <translation>Fichiers restaurés existants :</translation>
     </message>
     <message>
         <location filename="../src/ui/treeview.ui" line="105"/>
